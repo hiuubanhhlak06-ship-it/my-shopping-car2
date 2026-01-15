@@ -43,6 +43,25 @@ function App() {
       price: 450000,
       image: "https://picsum.photos/300/200?random=5",
     },
+    {
+      id: 5,
+      name: "Balo",
+      price: 450000,
+      image: "https://picsum.photos/300/200?random=5",
+    },
+    {
+      id: 5,
+      name: "Balo",
+      price: 450000,
+      image: "https://picsum.photos/300/200?random=5",
+    },
+    {
+      id: 5,
+      name: "Balo",
+      price: 450000,
+      image: "https://picsum.photos/300/200?random=5",
+    },
+    
   ];
 
   const addToCart = (product: Product) => {
